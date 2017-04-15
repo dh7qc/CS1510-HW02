@@ -1,4 +1,4 @@
-//Dennis Hahn CS1510 1B Homework #1
+//Dennis Hahn CS1510 1B Homework #2
 
 #include <iostream>
 #include <string>
